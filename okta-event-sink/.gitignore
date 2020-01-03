@@ -1,0 +1,4 @@
+traefik.toml
+log/
+acme.json*
+.vscode/
